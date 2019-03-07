@@ -424,7 +424,7 @@ Si cette stratégie est désactivée ou non configurée, les paramètres réseau
       <string id="SOCKSVersion4">SOCKS v4</string>
       <string id="SOCKSVersion5">SOCKS v5</string>
       <string id="AutoConfigURL">URL de configuration automatique du proxy</string>
-      <string id="AutoConfigURL_Explain">Ceux-ci ne devraient être définis que si vous avez sélectionné autoConfig</string>
+      <string id="AutoConfigURL_Explain">Cette option ne devrait être définie que si vous avez sélectionné autoConfig</string>
       <string id="Passthrough">URL de contournement du proxy</string>
       <string id="Passthrough_Explain">Ceux-ci ne devraient être définis que si vous avez sélectionné le proxy manuel</string>
       <string id="Connection">Type de connexion</string>
@@ -432,7 +432,7 @@ Si cette stratégie est désactivée ou non configurée, les paramètres réseau
       <string id="SystemProxy">Utiliser les paramètres du proxy système</string>
       <string id="ManualProxy">Configuration manuelle du proxy</string>
       <string id="AutoDetectProxy">Paramètres de détection automatique du proxy</string>
-      <string id="AutoConfigProxy">Configuration automatique du proxy</string>
+      <string id="AutoConfigProxy">Adresse de configuration automatique du proxy</string>
       <string id="TrackingProtection">Protection contre le suivi</string>
       <string id="TrackingProtection_Explain">Si cette stratégie n'est pas configurée, la protection de suivi n'est pas activée par défaut dans le navigateur, mais elle est activée par défaut dans la navigation privée et l'utilisateur peut la modifier.
 
